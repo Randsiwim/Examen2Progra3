@@ -1,0 +1,6 @@
+﻿<configuration>
+  <connectionStrings>
+    <add name="ConexionDB" connectionString="Server=DESKTOP-LJ7TU3N; Database=EmpresaLimpieza; Integrated Security=True;" providerName="System.Data.SqlClient" />
+  <authentication mode="None" />
+  </connectionStrings>
+</configuration>

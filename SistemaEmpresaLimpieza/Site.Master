@@ -1,0 +1,26 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Site.aspx.cs" Inherits="SistemaEmpresaLimpieza.Site" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+</asp:Content>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>SistemaEmpresaLimpieza</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <h1>Empresa Limpieza</h1>
+            <nav>
+                <ul>
+                    <li><a href="Empleados.aspx">Empleados</a></li>
+                    <li><a href="TelefonosEmpleado.aspx">Teléfonos</a></li>
+                    <li><a href="DireccionesEmpleado.aspx">Direcciones</a></li>
+                    <li><a href="PuestosEmpleado.aspx">Puestos</a></li>
+                </ul>
+            </nav>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

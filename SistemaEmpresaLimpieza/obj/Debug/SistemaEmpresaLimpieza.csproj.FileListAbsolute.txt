@@ -1,0 +1,2 @@
+C:\Users\Portatil_12\source\repos\SistemaEmpresaLimpieza\SistemaEmpresaLimpieza\obj\Debug\SistemaEmpresaLimpieza.csproj.AssemblyReference.cache
+C:\Users\Portatil_12\source\repos\SistemaEmpresaLimpieza\SistemaEmpresaLimpieza\obj\Debug\SistemaEmpresaLimpieza.csproj.CoreCompileInputs.cache
